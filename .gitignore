@@ -1,0 +1,7 @@
+*.py[co]       # exclude pycache
+
+__pycache__/
+
+docs/
+
+venv/
